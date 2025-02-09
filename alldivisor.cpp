@@ -22,4 +22,4 @@ int main() {
     
     cout << "Sum of all divisors of " << n << " is: " << sumOfDivisors(n) << endl;
     return 0;
-}
+}      
